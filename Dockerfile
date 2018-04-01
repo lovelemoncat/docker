@@ -1,2 +1,2 @@
 FROM alpine
-CMD "echo" "测试阿里云自动构建docker镜像"
+CMD "echo" "娴嬭瘯闃块噷浜戣嚜鍔ㄦ瀯寤篸ocker闀滃儚"
